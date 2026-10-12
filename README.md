@@ -1,17 +1,20 @@
-# cadastro
+# Tela de Cadastro Flutter
 
-A new Flutter project.
+Aplicativo de demonstração de interface para cadastro/login, feito para praticar formulários no Flutter. A tela coleta nome de usuário e senha e apresenta uma saudação quando os dois campos foram preenchidos. O código demonstra estado de tela e controladores de texto; não há autenticação remota configurada no projeto.
 
-## Getting Started
+## Tecnologias principais
 
-This project is a starting point for a Flutter application.
+- Dart
+- Flutter
+- Material Design
 
-A few resources to get you started if this is your first Flutter project:
+## Executar
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Com o Flutter SDK instalado:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# login-ui-flutter" 
+```bash
+flutter pub get
+flutter run
+```
+
+A tela principal está em `lib/ui/cadastro.dart`.
