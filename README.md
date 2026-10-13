@@ -38,7 +38,7 @@ A migração para Flutter com Dart 3 exige adequação do código e das dependê
 
 ## Execução das capturas
 
-Foi utilizado Flutter 2.10.5 com um destino web gerado apenas na cópia local. As imagens mostram a página inicial e a saudação após informar o nome “Visitante” e acionar **Entrar**. Nenhum backend foi simulado ou associado à tela.
+Foi utilizado Flutter 2.10.5 com um destino web gerado apenas na cópia local. A revisão usa o renderer CanvasKit. As imagens mostram a página inicial e a saudação “Bem vindo Marina” após preencher os dois campos com valores de demonstração e acionar **Entrar**. Nenhum backend foi simulado ou associado à tela.
 
 ## Relação com outros projetos
 
@@ -46,7 +46,7 @@ Exemplo independente de interface. Não corresponde ao login dos projetos Spring
 
 ## Capturas do sistema
 
-Capturas reais obtidas em execução local em 12/10/2026.
+Capturas reais obtidas no navegador interno em 13/10/2026. Imagens móveis em **390 × 844 pixels**, mantendo a composição do aplicativo.
 
 ### Página inicial
 
